@@ -1,0 +1,17 @@
+@media (max-width: 768px) {
+    .project {
+        display: block;
+    }
+}
+
+@media (max-width: 500px) {
+    .info-moses{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .projects{
+        display: block;
+    }
+}
